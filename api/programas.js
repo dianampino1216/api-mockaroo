@@ -1,4 +1,4 @@
-import datos desde '../programas.json';
+import datos from '../programas.json';
 
 export default function handler(req, res) {
   // Configurar cabeceras CORS (Muy importante para que tu frontend pueda leer la API)
