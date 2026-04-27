@@ -1,0 +1,5 @@
+[{"id":1,"nombre":"Valentina Rodríguez","email":"v.rodriguez@example.com","telefono":573001234567,"programa_interes":"Ingeniería de Sistemas","facultad":"Facultad de Ingeniería","fecha_inscripcion":"2026-04-20T14:30:00Z"},
+{"id":2,"nombre":"Andrés Felipe Gómez","email":"andresgomez88@example.com","telefono":573119876543,"programa_interes":"Maestría en Administración - MBA Profesional","facultad":"Facultad de Ciencias Económicas y Administrativas","fecha_inscripcion":"2026-04-22T09:15:00Z"},
+{"id":3,"nombre":"Camila Martínez","email":"camila.m.99@example.com","telefono":573205554433,"programa_interes":"Psicología","facultad":"Facultad de Psicología","fecha_inscripcion":"2026-04-24T16:45:00Z"},
+{"id":4,"nombre":"Santiago López","email":"slopez_dev@example.com","telefono":573154443322,"programa_interes":"Medicina","facultad":"Facultad de Medicina","fecha_inscripcion":"2026-04-25T11:20:00Z"},
+{"id":5,"nombre":"Laura Castillo","email":"lauracast@example.com","telefono":573102221199,"programa_interes":"Diplomado en Marketing Digital Estratégico","facultad":"Facultad de Ciencias Económicas y Administrativas","fecha_inscripcion":"2026-04-26T08:05:00Z"}]
