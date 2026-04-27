@@ -1,6 +1,6 @@
 const datos = require('../programas.json');
 
-export default function handler(req, res) {
+module.exports = function handler(req, res) {
   // Cabeceras CORS para que funcione en navegadores
   res.setHeader('Access-Control-Allow-Credentials', true);
   res.setHeader('Access-Control-Allow-Origin', '*');
